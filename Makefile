@@ -17,8 +17,8 @@ CC = gcc
 CFLAGS= -Wall -Wextra -Werror
 
 SRC	= srcs/parser.c \
-	  srcs/put_shape.c \
-	  srcs/strategy.c \
+	  srcs/put.c \
+	  srcs/algo.c \
 	  srcs/filler.c \
 	  srcs/main.c
 
