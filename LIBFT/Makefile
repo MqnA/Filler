@@ -6,7 +6,7 @@
 #    By: mavagner <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2016/11/06 15:26:03 by mavagner          #+#    #+#              #
-#    Updated: 2017/04/19 16:05:23 by mavagner         ###   ########.fr        #
+#    Updated: 2017/07/30 14:58:43 by mavagner         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -34,7 +34,7 @@ SRC = ft_printf/ft_printf.c \
 	  ft_uitoa_base.c \
 	  ft_uitoa.c \
 	  get_next_line/get_next_line.c \
-	  get_next_line/list_opereations.c \
+	  get_next_line/list_operations.c \
 	  ft_strsub_free.c \
 	  ft_strjoin_free.c \
 	  ft_lstmap.c \
